@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shemd\\OneDrive\\Desktop\\project\\shem\\portfolio\\portfolio.csproj": {}
+    "C:\\Users\\shemd\\Downloads\\shem\\portfolio\\portfolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shemd\\OneDrive\\Desktop\\project\\shem\\portfolio\\portfolio.csproj": {
+    "C:\\Users\\shemd\\Downloads\\shem\\portfolio\\portfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shemd\\OneDrive\\Desktop\\project\\shem\\portfolio\\portfolio.csproj",
+        "projectUniqueName": "C:\\Users\\shemd\\Downloads\\shem\\portfolio\\portfolio.csproj",
         "projectName": "portfolio",
-        "projectPath": "C:\\Users\\shemd\\OneDrive\\Desktop\\project\\shem\\portfolio\\portfolio.csproj",
+        "projectPath": "C:\\Users\\shemd\\Downloads\\shem\\portfolio\\portfolio.csproj",
         "packagesPath": "C:\\Users\\shemd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shemd\\OneDrive\\Desktop\\project\\shem\\portfolio\\obj\\",
+        "outputPath": "C:\\Users\\shemd\\Downloads\\shem\\portfolio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shemd\\AppData\\Roaming\\NuGet\\NuGet.Config"

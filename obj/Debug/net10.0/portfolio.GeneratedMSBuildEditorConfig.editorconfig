@@ -11,53 +11,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = portfolio
 build_property.RootNamespace = portfolio
-build_property.ProjectDir = C:\Users\shemd\OneDrive\Desktop\project\shem\portfolio\
+build_property.ProjectDir = C:\Users\shemd\Downloads\shem\portfolio\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\shemd\OneDrive\Desktop\project\shem\portfolio
+build_property.MSBuildProjectDirectory = C:\Users\shemd\Downloads\shem\portfolio
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/shemd/OneDrive/Desktop/project/shem/portfolio/Components/App.razor]
+[C:/Users/shemd/Downloads/shem/portfolio/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shemd/OneDrive/Desktop/project/shem/portfolio/Components/Pages/Counter.razor]
+[C:/Users/shemd/Downloads/shem/portfolio/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shemd/OneDrive/Desktop/project/shem/portfolio/Components/Pages/Error.razor]
+[C:/Users/shemd/Downloads/shem/portfolio/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shemd/OneDrive/Desktop/project/shem/portfolio/Components/Pages/Home.razor]
+[C:/Users/shemd/Downloads/shem/portfolio/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shemd/OneDrive/Desktop/project/shem/portfolio/Components/Pages/NotFound.razor]
+[C:/Users/shemd/Downloads/shem/portfolio/Components/Pages/NotFound.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xOb3RGb3VuZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shemd/OneDrive/Desktop/project/shem/portfolio/Components/Pages/Weather.razor]
+[C:/Users/shemd/Downloads/shem/portfolio/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shemd/OneDrive/Desktop/project/shem/portfolio/Components/Routes.razor]
+[C:/Users/shemd/Downloads/shem/portfolio/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shemd/OneDrive/Desktop/project/shem/portfolio/Components/_Imports.razor]
+[C:/Users/shemd/Downloads/shem/portfolio/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shemd/OneDrive/Desktop/project/shem/portfolio/Components/Layout/MainLayout.razor]
+[C:/Users/shemd/Downloads/shem/portfolio/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-69q5618dqg
 
-[C:/Users/shemd/OneDrive/Desktop/project/shem/portfolio/Components/Layout/ReconnectModal.razor]
+[C:/Users/shemd/Downloads/shem/portfolio/Components/Layout/ReconnectModal.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcUmVjb25uZWN0TW9kYWwucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-fc1vhbial2
